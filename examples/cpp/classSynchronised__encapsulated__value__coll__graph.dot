@@ -1,0 +1,15 @@
+digraph "Synchronised_encapsulated_value&lt; ValueType &gt;"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname="Helvetica,Arial,sans-serif" fontsize=15 labelfontsize=10 arrowhead=open arrowtail=open arrowsize=0.5 labelfontsize=15];
+  node [fontname="Helvetica,Arial,sans-serif" fontsize=15 fontsize=12 shape=plaintext];
+  rankdir="LR";
+  Node1 [label=<<b>Synchronised_encapsulated_value&lt; ValueType &gt;</b>> ,tooltip="encapsulating class with only public accessor and mutator intrfaces"];
+  Node2 -> Node1 [dir="back",color="midnightblue"style="solid"];
+  Node2 [label="Setter_interface\< ValueType \>" ,URL="$structSetter__interface.html",tooltip="is a sample of setter abstract interface for Synchronised_encapsulated_value"];
+  Node3 -> Node1 [dir="back",color="midnightblue"style="solid"];
+  Node3 [label="Getter_interface\< ValueType \>" ,URL="$structGetter__interface.html",tooltip="is a sample of getter abstract interface for Synchronised_encapsulated_value"];
+  Node4 -> Node1 [dir="back",color="midnightblue"style="solid"];
+  Node4 [label="Change_interface\< ValueType \>" ,URL="$structChange__interface.html",tooltip="is a sample of changer abstract interface for Synchronised_encapsulated_value"];
+}

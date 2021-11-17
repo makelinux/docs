@@ -1,0 +1,13 @@
+digraph "Factory_method_demo::client"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname="Helvetica,Arial,sans-serif" fontsize=15 labelfontsize=10 arrowhead=open arrowtail=open arrowsize=0.5 labelfontsize=15];
+  node [fontname="Helvetica,Arial,sans-serif" fontsize=15 fontsize=12 shape=plaintext];
+  rankdir="RL";
+  Node1 [label=<<b>Factory_method_demo::client</b>> ,tooltip=" "];
+  Node1 -> Node2 [dir="back",color="midnightblue"style="solid"];
+  Node2 [label="creational_patterns_demo" ,URL="$group__CP.html#ga50a82bd9d08b9a3b31267eefdf4ebaed",tooltip=" "];
+  Node2 -> Node3 [dir="back",color="midnightblue"style="solid"];
+  Node3 [label="main" ,URL="$group__DP.html#gae66f6b31b5ad750f1fe042a706a4e3d4",tooltip=" "];
+}

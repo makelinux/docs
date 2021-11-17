@@ -1,0 +1,6 @@
+<map id="Behavioral" name="Behavioral">
+<area shape="rect" id="node1" title="Behavioral patterns" alt="" coords="252,45,356,73"/>
+<area shape="rect" id="node3" href="$group__PS.html" title="Publish–subscribe pattern" alt="" coords="404,5,559,51"/>
+<area shape="rect" id="node4" href="$group__visitor.html" title="Visitor pattern" alt="" coords="448,75,515,103"/>
+<area shape="rect" id="node2" href="$group__DP.html" title="Software design patterns" alt="" coords="5,36,204,81"/>
+</map>

@@ -1,0 +1,27 @@
+digraph "Graphical Class Hierarchy"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname="Helvetica,Arial,sans-serif",fontsize=15,labelfontsize=15 arrowhead=open arrowtail=open arrowsize=0.5];
+  node [fontname="Helvetica,Arial,sans-serif",fontsize=15,fontsize=12 shape=plaintext];
+  rankdir="LR";
+  Node0 [label="Abstract_factory",height=0.2,width=0.4,color="black",URL="$structAbstract__factory.html",tooltip=" "];
+  Node0 -> Node1 [dir="back",color="midnightblue",style="solid"];
+  Node1 [label="Prototype",height=0.2,width=0.4,color="black",URL="$structPrototype.html",tooltip="is the factory of himself"];
+  Node0 -> Node9 [dir="back",color="midnightblue",style="solid"];
+  Node9 [label="Sample_factory",height=0.2,width=0.4,color="black",URL="$structSample__factory.html",tooltip=" "];
+  Node2 [label="Interface",height=0.2,width=0.4,color="black",URL="$structInterface.html",tooltip="is a common pure virtual interface"];
+  Node2 -> Node3 [dir="back",color="midnightblue",style="solid"];
+  Node3 [label="Active_object",height=0.2,width=0.4,color="black",URL="$structActive__object.html",tooltip="Active object"];
+  Node2 -> Node4 [dir="back",color="midnightblue",style="solid"];
+  Node4 [label="Bridge",height=0.2,width=0.4,color="black",URL="$structBridge.html",tooltip="is a wrapper using different from Standalone interface. AKA Adapter"];
+  Node2 -> Node5 [dir="back",color="midnightblue",style="solid"];
+  Node5 [label="Composite",height=0.2,width=0.4,color="black",URL="$structComposite.html",tooltip=" "];
+  Node2 -> Node6 [dir="back",color="midnightblue",style="solid"];
+  Node6 [label="Decorator",height=0.2,width=0.4,color="black",URL="$structDecorator.html",tooltip="is a partial wrapper of an object with same as wrapped object Interface"];
+  Node2 -> Node1 [dir="back",color="midnightblue",style="solid"];
+  Node2 -> Node7 [dir="back",color="midnightblue",style="solid"];
+  Node7 [label="Proxy",height=0.2,width=0.4,color="black",URL="$structProxy.html",tooltip="is a opaque wrapper with same as wrapped object Interface"];
+  Node2 -> Node8 [dir="back",color="midnightblue",style="solid"];
+  Node8 [label="Sample_product",height=0.2,width=0.4,color="black",URL="$structSample__product.html",tooltip=" "];
+}

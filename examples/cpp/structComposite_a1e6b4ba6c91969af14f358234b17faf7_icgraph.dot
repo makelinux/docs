@@ -1,0 +1,13 @@
+digraph "Composite::method"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname="Helvetica,Arial,sans-serif" fontsize=15 labelfontsize=10 arrowhead=open arrowtail=open arrowsize=0.5 labelfontsize=15];
+  node [fontname="Helvetica,Arial,sans-serif" fontsize=15 fontsize=12 shape=plaintext];
+  rankdir="RL";
+  Node1 [label=<<b>Composite::method</b>> ,tooltip=" "];
+  Node1 -> Node2 [dir="back",color="midnightblue"style="solid"];
+  Node2 [label="structural_patterns_demo" ,URL="$group__SP.html#ga3a9c3856221bdc96fcf38f956fc12011",tooltip=" "];
+  Node2 -> Node3 [dir="back",color="midnightblue"style="solid"];
+  Node3 [label="main" ,URL="$group__DP.html#gae66f6b31b5ad750f1fe042a706a4e3d4",tooltip=" "];
+}

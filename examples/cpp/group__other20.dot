@@ -1,0 +1,11 @@
+digraph "Other"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname="Helvetica,Arial,sans-serif" fontsize=15 labelfontsize=10 arrowhead=open arrowtail=open arrowsize=0.5 labelfontsize=15];
+  node [fontname="Helvetica,Arial,sans-serif" fontsize=15 fontsize=12 shape=plaintext];
+  rankdir=LR;
+  Node2 [label="C++20 examples" ,URL="$group__CPP20.html",tooltip=" "];
+  Node1 [label=<<b>Other</b>> ,tooltip=" "];
+  Node2->Node1 [shape=plaintext, dir="back", style="solid"];
+}

@@ -1,0 +1,13 @@
+digraph "Prototype::create"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="15",labelfontname="Helvetica",labelfontsize="15"];
+  node [fontname="Helvetica",fontsize="15",shape=record];
+  rankdir="RL";
+  Node1 [label="Prototype::create",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="15",style="solid",fontname="Helvetica"];
+  Node2 [label="creational_patterns_demo",height=0.2,width=0.4,color="black",URL="$group__CP.html#ga50a82bd9d08b9a3b31267eefdf4ebaed",tooltip=" "];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="15",style="solid",fontname="Helvetica"];
+  Node3 [label="main",height=0.2,width=0.4,color="black",URL="$group__DP.html#gae66f6b31b5ad750f1fe042a706a4e3d4",tooltip=" "];
+}

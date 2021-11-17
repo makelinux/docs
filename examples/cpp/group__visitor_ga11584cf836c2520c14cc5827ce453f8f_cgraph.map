@@ -1,0 +1,6 @@
+<map id="visitor_demo" name="visitor_demo">
+<area shape="rect" id="node1" title=" " alt="" coords="5,67,127,95"/>
+<area shape="rect" id="node2" href="$group__visitor.html#ga82eb8d60b7fe6342e91722f383a4c9c4" title="knows only virtual visitor and component" alt="" coords="239,5,336,33"/>
+<area shape="rect" id="node3" href="$structSample__component.html#ad9d2146df037c428eff9b9b816a6aebe" title="is not virtual" alt="" coords="175,58,400,103"/>
+<area shape="rect" id="node4" href="$structAbstract__visitor.html#ad18f776881d73ef1b50331105b244b07" title="overloaded function for each component subtype" alt="" coords="204,128,371,156"/>
+</map>

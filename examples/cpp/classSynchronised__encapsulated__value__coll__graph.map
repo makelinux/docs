@@ -1,0 +1,6 @@
+<map id="Synchronised_encapsulated_value&lt; ValueType &gt;" name="Synchronised_encapsulated_value&lt; ValueType &gt;">
+<area shape="rect" id="node1" title="encapsulating class with only public accessor and mutator intrfaces" alt="" coords="304,77,699,125"/>
+<area shape="rect" id="node2" href="$structSetter__interface.html" title="is a sample of setter abstract interface for Synchronised_encapsulated_value" alt="" coords="12,5,249,53"/>
+<area shape="rect" id="node3" href="$structGetter__interface.html" title="is a sample of getter abstract interface for Synchronised_encapsulated_value" alt="" coords="11,77,250,125"/>
+<area shape="rect" id="node4" href="$structChange__interface.html" title="is a sample of changer abstract interface for Synchronised_encapsulated_value" alt="" coords="5,149,256,197"/>
+</map>

@@ -1,0 +1,11 @@
+digraph "Synchronized_queue::pull"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname="Helvetica,Arial,sans-serif" fontsize=15 labelfontsize=10 arrowhead=open arrowtail=open arrowsize=0.5 labelfontsize=15];
+  node [fontname="Helvetica,Arial,sans-serif" fontsize=15 fontsize=12 shape=plaintext];
+  rankdir="RL";
+  Node1 [label=<<b>Synchronized_queue::pull</b>> ,tooltip=" "];
+  Node1 -> Node2 [dir="back",color="midnightblue"style="solid"];
+  Node2 [label="Active_object::Active\l_object" ,URL="$structActive__object.html#a92af2d6f206e6c49d87c87d2664561b6",tooltip=" "];
+}

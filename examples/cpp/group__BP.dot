@@ -1,0 +1,15 @@
+digraph "Behavioral"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname="Helvetica,Arial,sans-serif",fontsize=15,labelfontsize=15 arrowhead=open arrowtail=open arrowsize=0.5];
+  node [fontname="Helvetica,Arial,sans-serif",fontsize=15,fontsize=12 shape=plaintext];
+  rankdir=LR;
+  Node1 [label=<<b>Behavioral</b>>,height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Behavioral patterns"];
+  Node2 [label="Design patterns skeleton\l examples",height=0.2,width=0.4,color="black",URL="$group__DP.html",tooltip="Software design patterns"];
+  Node3 [label="Publish–subscribe\l pattern",height=0.2,width=0.4,color="black",URL="$group__PS.html",tooltip="Publish–subscribe pattern"];
+  Node4 [label="Visitor",height=0.2,width=0.4,color="black",URL="$group__visitor.html",tooltip="Visitor pattern"];
+  Node2->Node1 [shape=plaintext, dir="back", style="solid"];
+  Node1->Node3 [shape=plaintext, dir="back", style="solid"];
+  Node1->Node4 [shape=plaintext, dir="back", style="solid"];
+}

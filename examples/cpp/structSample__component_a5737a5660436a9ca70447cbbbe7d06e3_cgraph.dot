@@ -1,0 +1,11 @@
+digraph "Sample_component::component_accept"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname="Helvetica,Arial,sans-serif" fontsize=15 labelfontsize=10 arrowhead=open arrowtail=open arrowsize=0.5 labelfontsize=15];
+  node [fontname="Helvetica,Arial,sans-serif" fontsize=15 fontsize=12 shape=plaintext];
+  rankdir="LR";
+  Node1 [label=<<b>Sample_component::component_accept</b>> ,tooltip=" "];
+  Node1 -> Node2 [color="midnightblue"style="solid"];
+  Node2 [label="Visitor::visit" ,URL="$structVisitor.html#afe22ef50ffb60aa3d0291f55d0b7fc5e",tooltip="overloaded function for each component"];
+}

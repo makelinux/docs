@@ -1,0 +1,12 @@
+digraph "Virtual_A::Virtual_A"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname="Helvetica,Arial,sans-serif" fontsize=15 labelfontsize=10 arrowhead=open arrowtail=open arrowsize=0.5 labelfontsize=15];
+  node [fontname="Helvetica,Arial,sans-serif" fontsize=15 fontsize=12 shape=plaintext];
+  rankdir="LR";
+  Node1 [label=<<b>Virtual_A::Virtual_A</b>> ,tooltip=" "];
+  Node1 -> Node2 [color="midnightblue"style="solid"];
+  Node2 [label="Common::Common" ,URL="$structCommon.html#a9a33713116300697757e239178cdef2d",tooltip=" "];
+  Node1 -> Node1 [color="midnightblue"style="solid"];
+}

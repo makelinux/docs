@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['data_0',['data',['../structSample__product.html#a1a4990a84e1b3c42ccdbe84daf05e1fe',1,'Sample_product::data()'],['../structBuilder.html#aeb02e7e55d39b4f03ff508088f38ce4b',1,'Builder::data()']]],
+  ['decorator_1',['Decorator',['../structDecorator.html',1,'Decorator'],['../structDecorator.html#af227a0af6a3643f44d397c2cfb86191f',1,'Decorator::Decorator()']]],
+  ['deduced_5freturn_5ftype_2',['deduced_return_type',['../group__ded14.html#ga128fc82d5af06d52f686f2a3321db66f',1,'14.cpp']]],
+  ['deduced_5freturn_5ftype_5flambda_3',['deduced_return_type_lambda',['../group__ded14.html#ga8c5948e8f952c3be4cad6e14d7ee012c',1,'14.cpp']]],
+  ['deduced_5freturn_5ftype_5ftemplate_4',['deduced_return_type_template',['../group__ded14.html#ga043d026edc527963a310cf9d1b75c83d',1,'14.cpp']]],
+  ['deducted_5fpair_5',['deducted_pair',['../group__template__argument__deduction.html#ga49a7fd2cc7af79bea6fbe1181d744b00',1,'17.cpp']]],
+  ['deducted_5ftuple_6',['deducted_tuple',['../group__template__argument__deduction.html#ga82104fa96a3ca1999d6e03ecc4e301ec',1,'17.cpp']]],
+  ['deduction_7',['Deduction',['../group__ded14.html',1,'']]],
+  ['deduction_5fguide1_5fqueue_8',['deduction_guide1_queue',['../group__template__argument__deduction.html#gae06ba048fd02e30fe785cab65d195937',1,'17.cpp']]],
+  ['deduction_5fguide1_5fvector_9',['deduction_guide1_vector',['../group__template__argument__deduction.html#gae3567664597330506936b8cf45b526e9',1,'17.cpp']]],
+  ['deduction_5fguide2_5fqueue_10',['deduction_guide2_queue',['../group__template__argument__deduction.html#gace79514867538617f1c323dfd3a38d2c',1,'17.cpp']]],
+  ['deduction_5fguide2_5fvector_11',['deduction_guide2_vector',['../group__template__argument__deduction.html#gaab7e70621e4dcbc93a7fdcdc7756067b',1,'17.cpp']]],
+  ['deduction_5fguide_5farray_12',['deduction_guide_array',['../group__template__argument__deduction.html#ga9b40a5a6f8593afb6becf8e0d8f32bea',1,'17.cpp']]],
+  ['deduction_5fguides_5f17_13',['deduction_guides_17',['../group__templ17.html#gaecacde754dfb67194507339730e3f4cf',1,'17.cpp']]],
+  ['demo_14',['demo',['../group__other14.html#ga0d265fbf974505991bc348b57d90b902',1,'14.cpp']]],
+  ['derived11_15',['Derived11',['../structDerived11.html',1,'']]],
+  ['design_20patterns_20skeleton_20examples_16',['Design patterns skeleton examples',['../group__DP.html',1,'']]],
+  ['diamond_17',['Diamond',['../structDiamond.html#a15225093dd5c6cfb71a48c474c14d33b',1,'Diamond::Diamond()'],['../structDiamond.html',1,'Diamond']]],
+  ['dispatch_18',['dispatch',['../structMediator.html#aa4696f4276eb4646826fa2cd82392496',1,'Mediator']]],
+  ['dynamic_5fmemory_5f11_19',['dynamic_memory_11',['../group__lang11.html#ga90b35e01fc69af078797f15afe3cd85c',1,'11.cpp']]],
+  ['dynamic_5fmemory_5f17_20',['dynamic_memory_17',['../group__lib17.html#gab5fcfaf82b4a2f9f162cb824e42a6dc7',1,'17.cpp']]],
+  ['dynamic_5fmemory_5f20_21',['dynamic_memory_20',['../group__lang20.html#ga695ca6ed5b3485fb505fa16fff84b4e8',1,'20.cpp']]]
+];

@@ -1,0 +1,8 @@
+<map id="structural_patterns_demo" name="structural_patterns_demo">
+<area shape="rect" id="node1" title=" " alt="" coords="5,93,225,121"/>
+<area shape="rect" id="node2" href="$structBridge.html#a68cba3a3e983eaf7521a6cea23ef1b7c" title=" " alt="" coords="285,14,415,42"/>
+<area shape="rect" id="node4" href="$structProxy.html#a1c58aa9104f2537aae0f75b59130ce32" title=" " alt="" coords="289,66,411,94"/>
+<area shape="rect" id="node5" href="$structInterface.html#a73306300ba88073a31d86d9e282ff5ca" title=" " alt="" coords="497,118,643,146"/>
+<area shape="rect" id="node6" href="$structDecorator.html#a49123c88d6088bbd5573b98bccd1d8bf" title=" " alt="" coords="273,170,427,198"/>
+<area shape="rect" id="node3" href="$structStandalone.html#ab576b209f7db533a9d9a5ada760f6db5" title=" " alt="" coords="475,5,665,51"/>
+</map>

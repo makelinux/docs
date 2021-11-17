@@ -1,0 +1,4 @@
+<map id="Component" name="Component">
+<area shape="rect" id="node1" title="accepts a pure virtual Abstract_visitor" alt="" coords="32,5,144,33"/>
+<area shape="rect" id="node2" href="$structSample__component.html" title="one of many components is independent from Sample_visitor and implementations of function visit." alt="" coords="5,81,171,109"/>
+</map>
