@@ -1,0 +1,16 @@
+digraph "Graphical Class Hierarchy"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [fontname=Helvetica, fontsize=10];
+  edge [fontname=Ubuntu labelfontsize=10 arrowhead=open arrowtail=open arrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12 shape=plaintext];
+  rankdir="LR";
+  Node0 [label="Change_interface\< ValueType \>" URL="$structChange__interface.html" tooltip=" " ];
+  Node0 -> Node1 [dir="back",color="midnightblue"style="solid"];
+  Node1 [label="Synchronised_encapsulated\l_value\< ValueType \>" URL="$classSynchronised__encapsulated__value.html" tooltip="encapsulating class with only public accessor and mutator intrfaces" ];
+  Node20 [label="Getter_interface\< ValueType \>" URL="$structGetter__interface.html" tooltip=" " ];
+  Node20 -> Node1 [dir="back",color="midnightblue"style="solid"];
+  Node39 [label="Setter_interface\< ValueType \>" URL="$structSetter__interface.html" tooltip=" " ];
+  Node39 -> Node1 [dir="back",color="midnightblue"style="solid"];
+}

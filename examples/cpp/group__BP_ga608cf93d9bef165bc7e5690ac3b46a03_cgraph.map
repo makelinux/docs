@@ -1,0 +1,13 @@
+<map id="behavioral_patterns_demo" name="behavioral_patterns_demo">
+<area shape="rect" id="node1" title=" " alt="" coords="5,113,235,161"/>
+<area shape="rect" id="node2" href="$structChain__of__responsibility.html#a1e86b7bc1e9472af2b85e7322a4cc5c1" title="Specific handler can process a command and return non&#45;negative." alt="" coords="283,5,471,53"/>
+<area shape="rect" id="node3" href="$group__BP.html#ga49d579b8340b92f6ceb51cb6d57d4b2d" title=" " alt="" coords="309,77,445,125"/>
+<area shape="rect" id="node7" href="$structChain__of__responsibility.html#ac125b4b1aa689aa72daa30d0785a0c6e" title=" " alt="" coords="283,149,471,197"/>
+<area shape="rect" id="node8" href="$group__visitor.html#ga11584cf836c2520c14cc5827ce453f8f" title=" " alt="" coords="319,221,434,269"/>
+<area shape="rect" id="node4" href="$structMediator.html#abc7fd67c96301b2975f830550ab5713c" title=" " alt="" coords="570,5,721,53"/>
+<area shape="rect" id="node5" href="$group__BP.html#ga0b04b5167d12021f4360b6a66a1b1125" title=" " alt="" coords="583,77,708,125"/>
+<area shape="rect" id="node6" href="$structMediator.html#addf75875c907f9c653022e569b039b46" title=" " alt="" coords="820,77,967,125"/>
+<area shape="rect" id="node9" href="$group__visitor.html#ga6bf8321e7970a2c4c1f602b1fefb47e7" title="knows only virtual visitor and component" alt="" coords="596,149,695,197"/>
+<area shape="rect" id="node10" href="$structSample__component.html#ad6188f857cb41a7d9b7dc0e3cfda4ac9" title="is not virtual" alt="" coords="519,221,772,269"/>
+<area shape="rect" id="node11" href="$structVisitor.html#afe22ef50ffb60aa3d0291f55d0b7fc5e" title="overloaded function for each component" alt="" coords="593,293,698,341"/>
+</map>

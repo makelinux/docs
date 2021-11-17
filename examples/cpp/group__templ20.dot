@@ -1,0 +1,14 @@
+digraph "Templates"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [fontname=Helvetica, fontsize=10];
+  edge [fontname=Ubuntu labelfontsize=10 arrowhead=open arrowtail=open arrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12 shape=plaintext];
+  rankdir=LR;
+  Node2 [label="C++20 examples" URL="$group__CPP20.html" tooltip=" " ];
+  Node3 [label="Concepts" URL="$group__conc20.html" tooltip=" " ];
+  Node1 [label=<<b>Templates</b>> tooltip=" " ];
+  Node2->Node1 [shape=plaintext, dir="back", style="solid"];
+  Node1->Node3 [shape=plaintext, dir="back", style="solid"];
+}

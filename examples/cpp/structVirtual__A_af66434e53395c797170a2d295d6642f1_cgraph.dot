@@ -1,0 +1,13 @@
+digraph "Virtual_A::Virtual_A"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [fontname=Helvetica, fontsize=10];
+  edge [fontname=Ubuntu labelfontsize=10 arrowhead=open arrowtail=open arrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12 shape=plaintext];
+  rankdir="LR";
+  Node1 [label=<<b>Virtual_A::Virtual_A</b>> tooltip=" " ];
+  Node1 -> Node2 [color="midnightblue"style="solid"];
+  Node2 [label="Common::Common" URL="$structCommon.html#a9a33713116300697757e239178cdef2d" tooltip=" " ];
+  Node1 -> Node1 [color="midnightblue"style="solid"];
+}

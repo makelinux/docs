@@ -1,0 +1,16 @@
+digraph "client_visit"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10 arrowhead=open arrowtail=open arrowsize=0.3];
+  node [fontname=Ubuntu fontsize=10 shape=record];
+  rankdir="RL";
+  Node1 [label="client_visit" tooltip="knows only virtual visitor and component" height=0.2 width=0.4 color=black fillcolor=grey75 style=filled fontcolor=black  ];
+  Node1 -> Node2 [dir="back",color="midnightblue"style="solid"];
+  Node2 [label="visitor_demo" URL="$group__visitor.html#ga11584cf836c2520c14cc5827ce453f8f" tooltip=" " height=0.2 width=0.4 fillcolor=white style=filled  ];
+  Node2 -> Node3 [dir="back",color="midnightblue"style="solid"];
+  Node3 [label="behavioral_patterns_demo" URL="$group__BP.html#ga608cf93d9bef165bc7e5690ac3b46a03" tooltip=" " height=0.2 width=0.4 fillcolor=white style=filled  ];
+  Node3 -> Node4 [dir="back",color="midnightblue"style="solid"];
+  Node4 [label="main" URL="$group__DP.html#gae66f6b31b5ad750f1fe042a706a4e3d4" tooltip=" " height=0.2 width=0.4 fillcolor=white style=filled  ];
+}

@@ -1,0 +1,6 @@
+<map id="oop_demo" name="oop_demo">
+<area shape="rect" id="node1" title=" " alt="" coords="5,77,108,125"/>
+<area shape="rect" id="node2" href="$structChange__interface.html#a71adc7f53712cb951427c71f7a3f25fe" title="is a sample of getter abstract interface for Synchronised_encapsulated_value" alt="" coords="156,5,363,53"/>
+<area shape="rect" id="node3" href="$structGetter__interface.html#a7f0e42eb2b4dfbd8b4d4e05e63c99bed" title="is a sample of getter abstract interface for Synchronised_encapsulated_value" alt="" coords="173,77,346,125"/>
+<area shape="rect" id="node4" href="$structSetter__interface.html#af56ff578654b5d2fec5e3626da71673c" title="is a sample of setter abstract interface for Synchronised_encapsulated_value" alt="" coords="175,149,344,197"/>
+</map>
